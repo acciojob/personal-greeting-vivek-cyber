@@ -12,7 +12,7 @@ const App = () => {
         <label>Enter your name:</label>
 
         <input type="text" id="input"></input>
-        <div id="display"></div>
+        <p id="display"></p>
     </div>
   )
 }
